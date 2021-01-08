@@ -2,15 +2,15 @@
 
 Alex Morris, Routing Packets Within a Structured Peer-to-Peer (P2P) Network Overlay
 
-1.Included Files:
+1. Included Files:
 All source files are within the following packages.
-    cs455/overlay/node
-    cs455/overlay/routing
-    cs455/overlay/transport
-    cs455/overlay/util
-    cs455/overlay/wireformats
-README.txt
-build.gradle
+  * cs455/overlay/node
+  * cs455/overlay/routing 
+  * cs455/overlay/transport 
+* cs455/overlay/util 
+* cs455/overlay/wireformats 
+* README.txt 
+* build.gradle 
 
 2. How to run:
     Use "gradle build" to build
